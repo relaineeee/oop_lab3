@@ -1,0 +1,13 @@
+/build/
+/_deps/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.a
+*.o
+*.obj
+*.exe
+*.out
+*.log
+.vscode/
+.idea/
